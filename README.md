@@ -105,7 +105,8 @@ A seguir estão os testes obrigatórios solicitados pelo professor.
 * **Método:** GET
 * **Endpoint:** `/usuarios`
 * **Resultado esperado:** retornar lista de usuários
-* **Resultado obtido:** ![img.png](img/img.png)
+* **Resultado obtido:** 
+![img.png](img/img.png)
 
 ---
 
@@ -115,7 +116,8 @@ A seguir estão os testes obrigatórios solicitados pelo professor.
 * **Endpoint:** `/usuarios`
 * **Body:** JSON
 * **Resultado esperado:** usuário criado com ID gerado
-* **Resultado obtido:** ![img_2.png](img/img_2.png)
+* **Resultado obtido:** 
+![img_2.png](img/img_2.png)
 
 ---
 
@@ -125,7 +127,8 @@ A seguir estão os testes obrigatórios solicitados pelo professor.
 * **Endpoint:** `/usuarios/{id}`
 * **Body:** JSON
 * **Resultado esperado:** dados atualizados
-* **Resultado obtido:** ![img_4.png](img/img_4.png)
+* **Resultado obtido:** 
+![img_4.png](img/img_4.png)
 
 ---
 
@@ -134,7 +137,8 @@ A seguir estão os testes obrigatórios solicitados pelo professor.
 * **Método:** DELETE
 * **Endpoint:** `/usuarios/{id}`
 * **Resultado esperado:** status 204
-* **Resultado obtido:** ![img_5.png](img/img_5.png)
+* **Resultado obtido:** 
+![img_5.png](img/img_5.png)
 
 ---
 
